@@ -1,4 +1,4 @@
-### Addition
+## Addition
 
 Scenario: Add two numbers
 
